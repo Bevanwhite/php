@@ -8,7 +8,8 @@
 </head>
 <body>
 <?php
-echo 'Hello World';
+/* Date types & Type Casting */
 ?>
+
 </body>
 </html>
