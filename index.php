@@ -8,8 +8,7 @@
 </head>
 <body>
 <?php
-/* Date types & Type Casting */
-?>
 
+?>
 </body>
 </html>
