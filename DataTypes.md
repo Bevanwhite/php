@@ -40,3 +40,11 @@ how to get the data in array
 * `$companies = [1,2,3,0.5,-9.2,'a','B',true];` creating array
 * `echo $companies;` // array to string conversion error 
 * `print_r($companies);` // print array with index
+
+how to use var_dump in php
+* `var_dump($variable);` // it discribe the variable type and the value of it.
+
+how to use `strict_types` in php
+* `declare(strict_types=1);` but php has to the first command in that php file
+* you can't declare this on a html file because it start with `<!Doctype>`
+* but you can't make the unicode for `UTF-8 with BOM` that gives you error
